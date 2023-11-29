@@ -1,0 +1,29 @@
+.or {
+	text-align: center;
+	font-weight: bold;
+	border-bottom: 2px solid rgb(245 239 239);
+	line-height: 0.1em;
+	margin: 25px 0;
+}
+.or span {
+	background: #fff;
+	padding: 0 10px;
+}
+
+.create-group {
+	background: #a7cde9;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.group-full {
+	background: #ed8888;
+	border-radius: 10px;
+	padding: 25px 10px;
+}
+
+.form-background {
+	background: #efefef;
+	padding: 20px;
+	border-radius: 15px;
+}

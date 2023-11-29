@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"frontend-af","dependencies":{"axios":{"version":"0.27.2"},"babel-preset-es2015":{"version":"6.24.1"},"react-dom":{"version":"18.1.0"},"react-router-dom":{"version":"6.3.0"},"react-toastify":{"version":"9.0.1"},"react":{"version":"18.1.0"}}}
